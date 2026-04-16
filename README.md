@@ -1,3 +1,7 @@
 # Grupo-02-Arquitetura-de-Hardware-e-Software
  O trabalho da equipe 02, de arquitetura de Software e Hardware para o senai
- vamos montar um pc!
+ ----------------------------------
+ Orçamento do Pc gamer: 8000R$
+-----------------------------------
+Preço das peças:
+ 
