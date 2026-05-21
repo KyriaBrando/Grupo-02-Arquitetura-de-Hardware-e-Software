@@ -1,0 +1,196 @@
+CONFIGURAÇÃO COMPETITIVA COMPLETA DO PC
+
+HARDWARE
+
+• Processador: AMD Ryzen 5 7600
+• Cooler: Wraith Stealth original AMD
+• Placa-mãe: MSI PRO B650M-P
+• Memória RAM: 16 GB DDR5 6000 MHz EXPO (2x8 GB Kingston Fury Beast)
+• Placa de vídeo: Gigabyte Radeon RX 7600 Gaming OC 8 GB
+• SSD: Kingston NV3 1 TB NVMe PCIe 4.0
+• Fonte: MSI MAG A650BN 650W 80 Plus Bronze
+• Gabinete: Montech X3 Mesh
+• Monitor: Pichau Athen V4 Pro IPS 144 Hz
+
+ANÁLISE TÉCNICA
+
+O setup está extremamente equilibrado para jogos competitivos em 1080p.
+O Ryzen 5 7600 possui excelente desempenho single-core, alto IPC e clocks acima de 5 GHz, sendo forte o suficiente para manter FPS muito altos sem gargalo relevante na RX 7600.
+
+A RX 7600 foi projetada exatamente para 1080p competitivo e trabalha muito bem com CPUs Zen 4. O conjunto oferece ótima estabilidade de frametime, baixo input lag e excelente responsividade.
+
+A memória DDR5 6000 MHz EXPO é o ponto ideal para Ryzen 7000, melhorando:
+• frametime
+• 1% low
+• estabilidade
+• responsividade
+• latência do Infinity Fabric
+
+O monitor IPS 144 Hz foi um upgrade extremamente importante porque reduz:
+• motion blur
+• latência percebida
+• ghosting
+• atraso entre frames
+
+O gabinete Montech X3 Mesh oferece airflow excelente, ajudando:
+• clocks mais estáveis
+• temperaturas menores
+• menor thermal throttling
+• estabilidade de FPS
+
+A fonte MSI 650W é suficiente para o sistema inteiro, mantendo sobra de potência e estabilidade elétrica.
+
+O SSD NVMe PCIe 4.0 melhora:
+• loading
+• compilação de shaders
+• abertura de jogos
+• responsividade do sistema
+
+Não existem gargalos sérios na configuração atual.
+
+CONFIGURAÇÃO DA BIOS
+
+Ativar:
+• EXPO
+• Precision Boost Overdrive (PBO)
+• Above 4G Decoding
+• Resizable BAR
+
+Curve Optimizer:
+• Negative
+• -15 ou -20 all cores
+
+Isso reduz:
+• temperatura
+• consumo
+• ruído
+
+Mantendo:
+• clocks altos
+• desempenho competitivo
+
+CONFIGURAÇÃO DO WINDOWS
+
+Sistema recomendado:
+• Windows 10 otimizado
+ou
+• Windows 11 limpo e atualizado
+
+Plano de energia:
+• AMD Ryzen High Performance
+ou
+• Alto desempenho
+
+Desativar:
+• Xbox Game Bar
+• Capturas em segundo plano
+• Widgets
+• Transparência
+• Apps em startup
+• OneDrive automático
+• Overlays desnecessários
+
+CONFIGURAÇÃO DO MOUSE
+
+Windows:
+• desativar “Melhorar precisão do ponteiro”
+
+Mouse:
+• DPI 800 ou 1600
+• Polling Rate 1000 Hz
+
+CONFIGURAÇÃO DA AMD RX 7600 (ADRENALIN)
+
+Ativar:
+• Radeon Anti-Lag
+• Enhanced Sync
+• Surface Format Optimization
+
+Desativar:
+• Radeon Chill
+• Radeon Boost
+• V-Sync
+
+Texture Filtering Quality:
+• Performance
+
+Shader Cache:
+• AMD Optimized
+
+Tessellation:
+• Override application settings
+• 8x
+
+CONFIGURAÇÃO COMPETITIVA DOS JOGOS
+
+Usar:
+• Fullscreen exclusivo
+
+Desativar:
+• Motion Blur
+• Ambient Occlusion
+• Pós-processamento pesado
+• Sombras altas
+• Volumétricos altos
+
+Deixar:
+• Texturas médias/altas
+• Sombras low
+• efeitos low
+
+FPS:
+• limitar um pouco acima do refresh do monitor
+
+Exemplo:
+• monitor 144 Hz → limitar em 160–200 FPS
+
+CONFIGURAÇÃO DE REDE
+
+Desativar no adaptador:
+• Energy Efficient Ethernet
+• Green Ethernet
+
+DNS:
+• 1.1.1.1
+• 1.0.0.1
+
+TEMPERATURAS ESPERADAS
+
+CPU:
+• Idle → 40–50°C
+• Jogos → 70–88°C
+
+GPU:
+• Jogos → 60–75°C
+
+Tudo dentro do normal para Ryzen 7000.
+
+DESEMPENHO ESPERADO
+
+Valorant:
+• 350–500 FPS
+
+CS2:
+• 220–350 FPS
+
+Fortnite competitivo:
+• 180–260 FPS
+
+Rainbow Six Siege:
+• 250+ FPS
+
+CONCLUSÃO
+
+O computador está:
+• muito equilibrado
+• moderno
+• sem gargalos relevantes
+• excelente para competitivo
+• ótimo para 1080p high refresh
+
+A combinação Ryzen 7600 + RX 7600 + DDR5 6000 + monitor 144 Hz entrega:
+• baixa latência
+• excelente responsividade
+• frametime estável
+• ótima longevidade
+• experiência competitiva muito forte.
