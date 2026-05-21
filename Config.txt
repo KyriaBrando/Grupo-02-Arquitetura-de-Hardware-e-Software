@@ -194,3 +194,5 @@ A combinação Ryzen 7600 + RX 7600 + DDR5 6000 + monitor 144 Hz entrega:
 • frametime estável
 • ótima longevidade
 • experiência competitiva muito forte.
+
+*Análise da IA. Não utilizar como verdade.*
